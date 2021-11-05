@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/sequel-pro](https://draculatheme.com/sequel-ace).
+All instructions can be found at [draculatheme.com/sequel-ace](https://draculatheme.com/sequel-ace).
 
 ## Team
 
