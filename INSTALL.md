@@ -5,7 +5,7 @@
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
 ```bash
-$   git clone https://github.com/dracula/sequel-ace.git
+git clone https://github.com/dracula/sequel-ace.git
 ```
 
 #### Install manually
