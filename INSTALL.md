@@ -14,7 +14,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/sequel-ace/
 
 #### Activating theme
 
-1.  _Sequel Pro > Preferences > Query Editor_
+1.  _Sequel Ace > Preferences > Query Editor_
 2.  Click _"Gear" icon_
 3.  Click _Import Color Scheme..._
 4.  Select the `dracula.spTheme` file
